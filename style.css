@@ -17,6 +17,12 @@ body{
     padding: 40px 35px;
     text-align: center;
 }
+
+@media (max-width:768px) {
+
+    .search input{
+        width:50px;
+    }
 .search{
     width: 100%;
     display: flex;
