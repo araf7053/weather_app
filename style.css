@@ -23,6 +23,7 @@ body{
     .search input{
         width:50px;
     }
+}
 .search{
     width: 100%;
     display: flex;
